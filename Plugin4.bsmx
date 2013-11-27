@@ -1,0 +1,46 @@
+<Plugin><_MOD_>2011-04-20</_MOD_>
+<Name>Plugin</Name>
+<Type>8344</Type>
+<Owndata>1</Owndata>
+<TID>8344</TID>
+<Size>7</Size>
+<_XName>Plugin</_XName>
+<Allocinc>16</Allocinc>
+<Data><Plugin><_MOD_>2013-10-27</_MOD_>
+<F_PLUG_NAME>BeerSmith - California Common (15 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>BS-California.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2013-10-27</_MOD_>
+<F_PLUG_NAME>BNs Can You Brew It Recipes (15 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>CanBrewIt.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2013-10-27</_MOD_>
+<F_PLUG_NAME>BeerSmith - Weizen/Weisse (13 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>BS-Weizen-Weisse.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2013-10-27</_MOD_>
+<F_PLUG_NAME>BeerSmith - Sweet/Imperial Stouts (8 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>BS-Sweet-Stout.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2013-10-27</_MOD_>
+<F_PLUG_NAME>Northern Brewer - Pale Ales (20 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>NB-PaleAle.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2013-10-27</_MOD_>
+<F_PLUG_NAME>Briess Malts (66 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Briess.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2013-10-27</_MOD_>
+<F_PLUG_NAME>Hop Update 2013 - New Hop Varieties (63 hops)</F_PLUG_NAME>
+<F_PLUG_TYPE>7403</F_PLUG_TYPE>
+<F_PLUG_FILE>Hop-Update-2013.bsmx</F_PLUG_FILE>
+</Plugin>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Plugin>
