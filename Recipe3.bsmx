@@ -42488,7 +42488,7 @@ Mouthfeel: Medium-light to medium body; never heavy. Suspended yeast may increas
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2013-11-24</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Owndata>1</Owndata>
@@ -42523,7 +42523,7 @@ Mouthfeel: Medium-light to medium body; never heavy. Suspended yeast may increas
 <F_MH_TUN_MASS>64.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2013-11-24</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -42583,7 +42583,7 @@ Mouthfeel: Medium-light to medium body; never heavy. Suspended yeast may increas
 <Size>3</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>1969-12-31</_MOD_>
+<Data><Grain><_MOD_>2013-11-24</_MOD_>
 <F_G_NAME>LME Wheat Bavarian (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
