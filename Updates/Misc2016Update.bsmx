@@ -1,0 +1,894 @@
+<Selections><_MOD_>2016-01-26</_MOD_>
+<Name>Selections</Name>
+<Type>7421</Type>
+<Dirty>0</Dirty>
+<Owndata>0</Owndata>
+<TID>100</TID>
+<Size>48</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Vanilla Beans</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Vanilla Porter, Oatmeal Stout</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>13</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>2.0000000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>10.0000000</F_M_TIME>
+<F_M_NOTES>Can be used in boil, primary, or secondary. To use, simply slice the bean open lengthwise and add to your Secondary or Keg. Remove when the Vanilla flavor is at the desired strength. 1-2 beans are fine for a slight Vanilla flavor, but some  brewers will push the limits and add the third bean.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Chocolate</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Chocolate Stouts, Ales, Porters</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>2.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>Can be used in mash or boil</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Cinnamon Powder</F_M_NAME>
+<F_M_TYPE>0</F_M_TYPE>
+<F_M_USE_FOR>Holiday Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>6</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>3 teaspoons for last 5 minutes of boil for 5 gallons. Can also add to secondary.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-02-01</_MOD_>
+<F_M_NAME>Cardamom</F_M_NAME>
+<F_M_TYPE>0</F_M_TYPE>
+<F_M_USE_FOR>Spiced Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>6</F_M_UNITS>
+<F_M_AMOUNT>0.5000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>Cardamom has a strong, pungent flavor and aroma, with hints of lemon, mint and smoke. 
+Black cardamom has a distinctly more smokey, though not bitter, aroma, with a coolness some consider similar to mint. Green cardamom is one of the most expensive spices by weight but little is needed to impart flavor. It is best stored in pod form because once the seeds are exposed or ground, they quickly lose their flavor. Grinding the pods and seeds together lowers both the quality and the price. For recipes requiring whole cardamom pods, a generally accepted equivalent is 10 pods equals 1 1&frasl;2 teaspoons of ground cardamom.
+</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Agave Nectar</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Tequila Flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>12.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.5000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>Agave Extract is the sticky, sweet nectar or syrup of the Agave plant. It is a fantastic way to experiment with different flavors in your meads and beers. It has a malty aroma with a hint of sweetness to it. One of the great things about Agave Extract is that it won&#39;t crystallize like honey will, so it maintains a smooth, liquid-like consistency. Notes of molasses come out when tasting it. The extract is light in color, and in addition to being fermented, many people use Agave extract as a sweetener in foods. And due to it&#39;s low glycemic index, it is a great alternative to sugar for diabetics.  Agave Extract is also referred to as Agave Syrup or Agave Nectar often times.
+
+Add 12 oz of agave nectar to boil. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-02-01</_MOD_>
+<F_M_NAME>Prickly Pear Flower Buds (Opuntia)</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>3</F_M_UNITS>
+<F_M_AMOUNT>1.5000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>Prickly Pear has a taste similar to raspberries or watermelon, with a slight bite like kiwi fruit.
+
+There are a couple of ways to use prickly pear, one is to add them to the kettle using a stainless hop spider and boil for 90 minutes. Another is to crush the fruit and boil beforehand then add the juice to primary or secondary.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-02-01</_MOD_>
+<F_M_NAME>Lemon Grass</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Wheat Beers</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>5.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>Good for use in wheat beers</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Chilis</F_M_NAME>
+<F_M_TYPE>0</F_M_TYPE>
+<F_M_USE_FOR>Spice Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>Use is similar to hops. Longer boils will give you more bitterness, putting in secondary will add more flavor.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Chili Powder</F_M_NAME>
+<F_M_TYPE>0</F_M_TYPE>
+<F_M_USE_FOR>Spice Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>6</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>Can use during any phase.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-02-01</_MOD_>
+<F_M_NAME>Saguaro Fruit</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>3</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>Can use during any phase. If adding to primary or secondary, juice, strain and pasturized before adding.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-02-01</_MOD_>
+<F_M_NAME>Phosphoric Acid 10%</F_M_NAME>
+<F_M_TYPE>5</F_M_TYPE>
+<F_M_USE_FOR>Water Agent</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>1</F_M_UNITS>
+<F_M_AMOUNT>29.0000000</F_M_AMOUNT>
+<F_M_VOLUME>777.7180400</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>1</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>60.0000000</F_M_TIME>
+<F_M_NOTES>Multiply ml by 1.05365 to get grams at 20*C
+Used to lower the pH of the mash without altering the water profile.  Lower pH mashes generally improves head retention, increases extraction rate.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-02-01</_MOD_>
+<F_M_NAME>Phosphoric Acid 85%</F_M_NAME>
+<F_M_TYPE>5</F_M_TYPE>
+<F_M_USE_FOR>Water Agent</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>1</F_M_UNITS>
+<F_M_AMOUNT>2.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>1</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>60.0000000</F_M_TIME>
+<F_M_NOTES>Multiply ml by 1.6954 to get grams at 20*C
+Used to lower the pH of the mash without altering the water profile.  Lower pH mashes generally improves head retention, increases extraction rate.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-02-01</_MOD_>
+<F_M_NAME>Super-Kleer KC Finings</F_M_NAME>
+<F_M_TYPE>1</F_M_TYPE>
+<F_M_USE_FOR>Clarity</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>13</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>3.0000000</F_M_TIME>
+<F_M_NOTES>Super Kleer KC Finings is a liquid finings solution that is a 2 stage clearing agent for beer and wine. 1 pack will work on up to 6 gallons of wine or beer at a time. Super Kleer is able to clear the beer or wine in 12 - 48 hours. It is made up of 50ml Chitosan and 15ml Kieselsol. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Cacao Nibs</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Brown Ales, Stouts, Porters</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>3.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>Particularly well-suited for darker styles such as brown ales, porters and stouts, we recommend 2-4oz per 5 gallon batch. Nibs can be added during secondary fermentation for smooth, rich chocolate notes or at the end of the boil to extract a bittersweet bite.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Grapefruit Peel</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer, IPA, Wheatbeer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>Grapefruit peel is a great way to add a refreshing and slightly tart citrus tang to your favorite fermented creation. Add it to the end of the boil in a white ale, or add it to secondary fermentation to impart a grapefruit flavor and aroma in a pale ale or IPA. Suggested usage rate: 1-2 oz per 5 gallons. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Fermcap-S</F_M_NAME>
+<F_M_TYPE>5</F_M_TYPE>
+<F_M_USE_FOR>Foam Inhibitor</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>5</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>60.0000000</F_M_TIME>
+<F_M_NOTES>Prevent boil overs on the hot side, add 2 drops per gallon for a nice rolling boil. On the cold side, Fermcap keeps the krausen in your fermenter to 1/2 an inch. Fermcap works very well for brewers who use a carboy for primary fermentation. In a 6 gallon carboy there is no need for blow off tubing when you use this product. Use only two drops per gallon at the start of fermentation. If you add Fermcap during the boil you do not need to add it again in your fermenter. Used in the fermenter, it increases the bitterness of your beer (retained IBUs) by about 10%! Enough for about 20 batches. Keep refrigerated. Size: 1 Oz.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Raspberry Puree</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>49.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.4100000</F_M_PRICE>
+<F_M_USE>2</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>You can add this puree directly to your primary or secondary fermenter to flavor beer, mead, or wines. As the puree contains no seeds, add 10-15% less puree as you would fruit. One 49 oz. can will make 1 gallon of fruit wine. You should never boil the puree as it can create off flavors. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-02-01</_MOD_>
+<F_M_NAME>Blackberry Puree</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>49.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.5100000</F_M_PRICE>
+<F_M_USE>2</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>You can add this puree directly to your primary or secondary fermenter to flavor beer, mead, or wines. As the puree contains no seeds, add 10-15% less puree as you would fresh/ frozen fruit. One 49 oz. can will make 1 gallon of fruit wine. Make sure to never boil the puree as it can create some off flavors.
+</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-02-01</_MOD_>
+<F_M_NAME>Cherry Puree</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>49.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.3100000</F_M_PRICE>
+<F_M_USE>2</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>You can add this puree directly to your primary or secondary fermentor to flavor beer, mead, or wines. As the puree contains no seeds, add 10-15% less puree as you would fruit. One 49 oz. can will make 1 gallon of fruit wine. You should never boil the puree as it can create off flavors. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>American Oak Infusion Spirals</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Oak Flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>13</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>4.0000000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>American Oak Infusion Spiral Medium Toast has less tannins but more bouquet, so it will impart more aroma than flavor. It has a warm, sweet character with strong vanilla overtones.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-02-01</_MOD_>
+<F_M_NAME>Apricot Puree</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>49.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.4100000</F_M_PRICE>
+<F_M_USE>2</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>You can add this puree directly to your primary or secondary fermenter to flavor beer, mead, or wines. As the puree contains no seeds, add 10-15% less puree as you would fruit. One 49 oz. can will make 1 gallon of fruit wine. You should never boil the puree as it can create off flavors.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Sinamar</F_M_NAME>
+<F_M_TYPE>4</F_M_TYPE>
+<F_M_USE_FOR>Coloring</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>4.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.5000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>This coloring extract has been used in the commercial industry for the last 100 years. Substitute this extract to gain color without the typical intense flavors associated with roasted malts. Add to the kettle or to the fermenter. 4 oz. will add 16 srm units to 5 gallons.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Juniper Berries</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>2.7900000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>Most people associate Juniper Berries as being the principal flavoring in gin. Juniper has been used In porters, stouts and doppelbocks for centuries as well. Use 1/2 - 1 ounce in the boil. The flavor is very compatible with rye beer, and blends well with the citrus notes of ginger and orange peel, as well as licorice root and coriander. Crush berries with mortar and pestle before using, or place in thick plastic bag and crush with a mallet. The berries are also delicious in sauces and marinades for game dishes. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Apple Extract</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>2.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.2500000</F_M_PRICE>
+<F_M_USE>4</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>0.0000000</F_M_TIME>
+<F_M_NOTES>These extracts should be added to your bottling bucket just prior to bottling. Traditionally, fruit flavors were added to wheat beers, witbiers, blonde ales, porter and stouts. Today, breweries are adding these flavors to just about any style of beer. 
+
+ Since the extract is added at bottling time, it is very easy to flavor only part of the batch. For example, if you made a Midwest Porter, you could bottle half of the batch without the extract, then add half the bottle of extract to the bottling bucket, stir, and bottle the rest. Use up to 4 oz. per 5 gallon batch. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Peach Puree</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>49.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.3700000</F_M_PRICE>
+<F_M_USE>2</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>You can add this puree directly to your primary or secondary fermenter to flavor beer, mead, or wines. As the puree contains no seeds, add 10-15% less puree as you would fruit. One 49 oz. can will make 1 gallon of fruit wine. You should never boil the puree as it can create off flavors. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>French Oak Infusion Spirals</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Oak Flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>13</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>9.0000000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>French Oak Infusion Spiral Light Toast contributes fresh oak, coconut and fruit flavors. Infusion Spirals are easy to use, time saving, economical, environmentally friendly, as well as being high-quality.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>American Oak Cubes - Medium Toast</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Oak Flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>3.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.9900000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>Barrels used to be the home winemakers only choice for imparting oak flavor in their wines. These high quality oak cubes allow you to achieve the same quality of oak flavor that you taste in good wines. These are the same cubes used by many wineries in Napa Valley. Oak staves (the wooden strips that oak barrels are constructed of) are air dried for two to three years, then traditionally fire-toasted and cubed. Since three varieties are available, you are able to blend different levels of toast to achieve different effects. While the heavy-toast cubes are recommended for big reds that benefit from a heavy, caramelized oak flavor, they may also be used to supplement the medium-toast cubes for a more subtle flavoring. Many of our customers use a blend of French and American cubes, usually using the French cubes in a higher percentage. We have had success blending all three oaks, again using the French in the highest percentage. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>American Oak Cubes, Medium-Heavy Toast</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Oak Flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>3.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.9900000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>Barrels used to be the home winemakers only choice for imparting oak flavor in their wines. These high quality oak cubes allow you to achieve the same quality of oak flavor that you taste in good wines. These are the same cubes used by many wineries in Napa Valley. Oak staves (the wooden strips that oak barrels are constructed of) are air dried for two to three years, then traditionally fire-toasted and cubed. Since three varieties are available, you are able to blend different levels of toast to achieve different effects. While the heavy-toast cubes are recommended for big reds that benefit from a heavy, caramelized oak flavor, they may also be used to supplement the medium-toast cubes for a more subtle flavoring. Many of our customers use a blend of French and American cubes, usually using the French cubes in a higher percentage. We have had success blending all three oaks, again using the French in the highest percentage. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>American Oak Cubes - Heavy Toast</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Oak Flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>3.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.9900000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>Barrels used to be the home winemakers only choice for imparting oak flavor in their wines. These high quality oak cubes allow you to achieve the same quality of oak flavor that you taste in good wines. These are the same cubes used by many wineries in Napa Valley. Oak staves (the wooden strips that oak barrels are constructed of) are air dried for two to three years, then traditionally fire-toasted and cubed. Since three varieties are available, you are able to blend different levels of toast to achieve different effects. While the heavy-toast cubes are recommended for big reds that benefit from a heavy, caramelized oak flavor, they may also be used to supplement the medium-toast cubes for a more subtle flavoring. Many of our customers use a blend of French and American cubes, usually using the French cubes in a higher percentage. We have had success blending all three oaks, again using the French in the highest percentage.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>French Oak Cubes - Medium Toast</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Oak Flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>3.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>2.6600000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>Barrels used to be the home winemakers only choice for imparting oak flavor in their wines. These high quality oak cubes allow you to achieve the same quality of oak flavor that you taste in good wines. These are the same cubes used by many wineries in Napa Valley. Oak staves (the wooden strips that oak barrels are constructed of) are air dried for two to three years, then traditionally fire-toasted and cubed. Since three varieties are available, you are able to blend different levels of toast to achieve different effects. While the heavy-toast cubes are recommended for big reds that benefit from a heavy, caramelized oak flavor, they may also be used to supplement the medium-toast cubes for a more subtle flavoring. Many of our customers use a blend of French and American cubes, usually using the French cubes in a higher percentage. We have had success blending all three oaks, again using the French in the highest percentage. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>French Oak Cubes Medium - Heavy Toast</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Oak Flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>3.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>2.6600000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>Barrels used to be the home winemakers only choice for imparting oak flavor in their wines. These high quality oak cubes allow you to achieve the same quality of oak flavor that you taste in good wines. These are the same cubes used by many wineries in Napa Valley. Oak staves (the wooden strips that oak barrels are constructed of) are air dried for two to three years, then traditionally fire-toasted and cubed. Since three varieties are available, you are able to blend different levels of toast to achieve different effects. While the heavy-toast cubes are recommended for big reds that benefit from a heavy, caramelized oak flavor, they may also be used to supplement the medium-toast cubes for a more subtle flavoring. Many of our customers use a blend of French and American cubes, usually using the French cubes in a higher percentage. We have had success blending all three oaks, again using the French in the highest percentage.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>French Oak Cubes - Heavy Toast</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Oak Flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>3.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>2.6600000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>Barrels used to be the home winemakers only choice for imparting oak flavor in their wines. These high quality oak cubes allow you to achieve the same quality of oak flavor that you taste in good wines. These are the same cubes used by many wineries in Napa Valley. Oak staves (the wooden strips that oak barrels are constructed of) are air dried for two to three years, then traditionally fire-toasted and cubed. Since three varieties are available, you are able to blend different levels of toast to achieve different effects. While the heavy-toast cubes are recommended for big reds that benefit from a heavy, caramelized oak flavor, they may also be used to supplement the medium-toast cubes for a more subtle flavoring. Many of our customers use a blend of French and American cubes, usually using the French cubes in a higher percentage. We have had success blending all three oaks, again using the French in the highest percentage. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Clarity Ferm (White Labs)</F_M_NAME>
+<F_M_TYPE>1</F_M_TYPE>
+<F_M_USE_FOR>Clarity</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>13</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>4.9900000</F_M_PRICE>
+<F_M_USE>2</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>This enzyme promotes clearer beer by breaking down the proteins responsible for chill haze. It can also be used to reduce the gluten content in beer made with barley and wheat. Each vial is sufficient for treating 5 gallons of beer. Simply add to chilled wort when pitching yeast.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Biofine Clear</F_M_NAME>
+<F_M_TYPE>1</F_M_TYPE>
+<F_M_USE_FOR>Clarity</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>5</F_M_UNITS>
+<F_M_AMOUNT>3.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.1000000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>Biofine Clear is a clarifier made from Silicic Acid, SiO2, and is added to the secondary during the transfer from primary to secondary to precipitate yeast and other haze-causing particles. Biofine is a vegan product and is not derived from animals or animal by-products. Use can be as little as 1/4 Tbsp (1/10th fluid oz. or 3 ml) to as much as 2 Tbsp (1 fluid oz. or 30 ml) per 5 gallon batch of beer or wine. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Fermax</F_M_NAME>
+<F_M_TYPE>4</F_M_TYPE>
+<F_M_USE_FOR>Yeast Nutrient</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>6</F_M_UNITS>
+<F_M_AMOUNT>5.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.2000000</F_M_PRICE>
+<F_M_USE>2</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>A premium formulation. Fermax Yeast Nutrient gives nourishment to your yeast so that it stays healthy throughout the fermentation process. Used in beer, wine, mead, etc. to produce healthy yeast for a complete fermentation. Use 1 teaspoon per gallon prior to fermentation beginning.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Fermaid</F_M_NAME>
+<F_M_TYPE>4</F_M_TYPE>
+<F_M_USE_FOR>Yeast Nutrient</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>1</F_M_UNITS>
+<F_M_AMOUNT>7.5000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.1000000</F_M_PRICE>
+<F_M_USE>2</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>Fermaid O is certified organic by OMRI. It is an autolyzed yeast nutrient with a high content of organic nitrogen (amino acids). It is formu&shy;lated without DAP. It is best to add Fermaid O in two doses. Add half the dose at the end of lag phase (at the onset of fermentation) and the other half between 1/4 and 1/3 sugar depletion.
+
+ To Use: Fermaid O should be mixed with room tem&shy;perature water before adding to an active fermentation to avoid CO2 release and overflowing of tanks or bar&shy;rels. The amount of water used is not critical. Simply add enough to make a slurry.
+
+ Dosage: 1.5 grams/ gallon
+</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-02-01</_MOD_>
+<F_M_NAME>Licorice Root</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Licorice Flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.5000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>Traditionally used in dark beers such as Porters and Stouts, this root imparts a very distinct licorice flavor and is surprisingly sweet. It contains Glycyrrhizin, a substance 50 times sweeter than sugar! Use about 1/2 - 1 ounce per 5 gallons and add for the last few minutes of the boil. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Paradise Seed</F_M_NAME>
+<F_M_TYPE>0</F_M_TYPE>
+<F_M_USE_FOR>Belgian Beers</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>0.2500000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>3.4900000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>This spice has a peppery zing to it, but also brings a balance of citrus notes and an earthy pine aroma. Typically used in Belgian-Style specialty and holiday beers. Crush lightly before using and add to the boil. Combine with Licorice Root and Sweet Orange Peel for a great Belgian Holiday beer.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Peach Extract</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>2.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.5000000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>1.0000000</F_M_TIME>
+<F_M_NOTES>Add great fruit flavor and aroma to your beer with our natual fruit flavorings. Best if added just prior to bottling. Recommend you start by adding 1/2 bottle and then add more according to your taste. Contains no sugar or haze-causing pectins. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Strawberry Extract</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>2.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.5000000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>1.0000000</F_M_TIME>
+<F_M_NOTES>Add great fruit flavor and aroma to your beer with our natual fruit flavorings. Best if added just prior to bottling. We recommend you start by adding 1/2 bottle and then add more according to your taste. Contains no sugar or haze-causing pectins.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Boysenberry Extract</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>2.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.5000000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>1.0000000</F_M_TIME>
+<F_M_NOTES>Add great fruit flavor and aroma to your beer with our natual fruit flavorings. Best if added just prior to bottling. We recommend you start by adding 1/2 bottle and then add more according to your taste. Contains no sugar or haze-causing pectins. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Blueberry Extract</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>2.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.5000000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>1.0000000</F_M_TIME>
+<F_M_NOTES>Add great fruit flavor and aroma to your beer with our natual fruit flavorings. Best if added just prior to bottling. We recommend you start by adding 1/2 bottle and then add more according to your taste. Contains no sugar or haze-causing pectins.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Cranberry Extract</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>2.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.5000000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>1.0000000</F_M_TIME>
+<F_M_NOTES>Add great fruit flavor and aroma to your beer with our natual fruit flavorings. Best if added just prior to bottling. We recommend you start by adding 1/2 bottle and then add more according to your taste. Contains no sugar or haze-causing pectins.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Hazelnut</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Nutty Flavor</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>5</F_M_UNITS>
+<F_M_AMOUNT>12.5000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.1200000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>1.0000000</F_M_TIME>
+<F_M_NOTES>Add great nutty flavor and aroma to your beer with our Hazelnut extract. Best if added just prior to bottling. We recommend you start by adding 1/2 bottle and then add more according to your taste. Contains no sugar or haze-causing pectins.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Ginger, Crystallized</F_M_NAME>
+<F_M_TYPE>2</F_M_TYPE>
+<F_M_USE_FOR>Holiday Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>2</F_M_UNITS>
+<F_M_AMOUNT>1.5000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>2.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES>They add a substantial spicy, gingery flavor and aroma. They can be added at the end of a boil, or to secondary. Use 1-2 oz. per 5 gallons. Soak them in enough vodka or similar neutral spirit to cover for 24 hours if adding to secondary. </F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Accumash</F_M_NAME>
+<F_M_TYPE>5</F_M_TYPE>
+<F_M_USE_FOR>Water Agent</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>13</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>4.9900000</F_M_PRICE>
+<F_M_USE>1</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>60.0000000</F_M_TIME>
+<F_M_NOTES>Accumash&trade; alters your strike water profile to deliver the perfect pH and mineral/ion content for each batch. It&rsquo;s as simple as stirring it into your mash right after the grain.
+
+Note: Accumash&trade; is designed for use with distilled or RO water and in your mash only. Do not use with spring water or tap water.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-02-01</_MOD_>
+<F_M_NAME>Fizz Drops</F_M_NAME>
+<F_M_TYPE>4</F_M_TYPE>
+<F_M_USE_FOR>Priming</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>13</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.0700000</F_M_PRICE>
+<F_M_USE>4</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>0.0000000</F_M_TIME>
+<F_M_NOTES>Fizz Drops are designed to take the place of making a priming solution and batch priming. These drops help to reduce the guesswork often associated with irregular batch size bottle conditioning because they are a uniform weight of pure sugar.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+<Misc><_MOD_>2016-01-26</_MOD_>
+<F_M_NAME>Campden Tablets</F_M_NAME>
+<F_M_TYPE>5</F_M_TYPE>
+<F_M_USE_FOR>Water Agent</F_M_USE_FOR>
+<F_M_TEMP_VOL>640.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>13</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.1000000</F_M_PRICE>
+<F_M_USE>1</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>60.0000000</F_M_TIME>
+<F_M_NOTES>Use campden tablets to remove chlorine or chloramine from their brewing water.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>0</F_ORDER>
+</Misc>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Selections>

@@ -1,0 +1,74 @@
+<html xmlnx="http://wwww.w3.org/1999/xhtml">
+<head>
+<title>$NAME</title>
+<link rel="stylesheet" href="style.css" type="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+</head>
+<body>
+<div id="wrapper">
+  <div id="header">
+  <div class="logo">
+   <h1>$NAME</h1>
+   <h2>$STYLE_NAME ($STYLE_NUMBER $STYLE_LETTER)</h2>
+   </div>
+ </div>
+  <div class="glass"><img src='$GLASS' height='128' width='75' /></div>
+ <div class="col1">
+ <span class="item">Type:</span> $TYPE<br>
+ <span class="item">Batch Size:</span> $DISPLAY_BATCH_SIZE<br>
+ <span class="item">Boil Size:</span> $DISPLAY_BOIL_SIZE<br>
+ <span class="item">Boil Time:</span> $BOIL_TIME min<br>
+ <span class="item">End of Boil Vol:</span> $POST_BOIL_VOLUME<br>
+ <span class="item">Fermentation:</span> $AGE_NAME<br>
+ </div>
+ <div class="col2">
+ <span class="item">Date:</span> $DATE<br>
+ <span class="item">Brewer:</span> $BREWER<br>
+ <span class="item">Equipment:</span> $EQUIPMENT<br>
+ <span class="item">Efficiency:</span> $EFFICIENCY %<br>
+ <span class="item">Est Mash Efficiency:</span> $EST_MASH_EFFICIENCY<br>
+ </div>
+ 
+ <br>
+ <br>
+ <h3>Prepare for Brewing</h3>
+ <ul class="checklist">
+ <li>$YEAST_STARTERS</li>
+  <li>Total Water Needed: $TOTAL_WATER</li>
+ <li>$WATER_PREP</li>
+ </ul>
+<h3>Mash or Steep Grains</h3>
+$MASH_INGREDIENTS $STEEP_INGREDIENTS
+$MASH_STEPS
+<ul class="checklist">
+<li>$SPARGE_STEPS</li>
+<li>$FIRST_WORT_HOPS</li>
+<li>Estimated pre-boil gravity is $PRE_BOIL_OG</li>
+</ul>
+$BOIL_INGREDIENTS
+$STEEP_HOPS
+<ul class="checklist">
+<li>Estimated Post Boil Vol: $POST_BOIL_VOLUME and Est Post Boil Gravity: $EST_OG</li>
+</ul>
+<h3>Pitch Yeast and Measure Gravity and Volume</h3>
+$FERMENT_INGREDIENTS
+<ul class="checklist">
+<li>Measure Actual Original Gravity _______&nbsp;&nbsp;&nbsp;&nbsp; (Target: $EST_OG)</li>
+<li>Measure Actual Batch Volume _______&nbsp;&nbsp;&nbsp;&nbsp; (Target: $DISPLAY_BATCH_SIZE)</li>
+<li>Add water if needed to achieve final volume of $DISPLAY_BATCH_SIZE</li>
+</ul>
+<h3>Fermentation</h3>
+<ul class="checklist">
+<li>$PRIMARY_STEP $PRIMARY_INGREDIENTS</li>
+<li>$SECONDARY_STEP $SECONDARY_INGREDIENTS</li>
+<li>$TERTIARY_STEP</li>
+</ul>
+<h3>Dry Hop and Bottle/Keg</h3>
+$BOTTLING_INGREDIENTS
+<ul class="checklist">
+<li>Measure Final Gravity: _________&nbsp; (Estimate: $EST_FG)</li>
+<li>Date Bottled/Kegged: _________&nbsp; </li>
+</ul>
+</div>
+</body>
+</html>

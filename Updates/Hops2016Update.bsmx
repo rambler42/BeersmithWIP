@@ -1,0 +1,773 @@
+<Selections><_MOD_>2016-01-26</_MOD_>
+<Name>Selections</Name>
+<Type>7403</Type>
+<Dirty>1</Dirty>
+<Owndata>0</Owndata>
+<TID>100</TID>
+<Size>33</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Hops><_MOD_>2016-02-01</_MOD_>
+<F_H_NAME>Aramis</F_H_NAME>
+<F_H_ORIGIN>France</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>8.1000000</F_H_ALPHA>
+<F_H_BETA>4.2000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Very fine spice and herbal notes with subtle citrus characteristics. Closely resembling Strisselspalt, but with higher oil and alpha content.
+
+Used for: Belgian-style Ales
+Substitutions: Willamette, Challenger, Ahtanum
+Storage: Unknown</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Triskel</F_H_NAME>
+<F_H_ORIGIN>France</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>2.6000000</F_H_ALPHA>
+<F_H_BETA>6.7000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>A cross between Strisselspalt and the male plant of the English hop variety of Yeoman. Contains many of the same characteristics as Strisselspalt, but with a more pronounced flavor profile. Strong floral, fruit and citrus characteristics.
+
+Used for: Belgian style ale, Lager, IPA, Pilsner, Wheat
+Substitutions: Ahtanum, Centennial, Chinook, Simcoe
+Storage: Unknown</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Brewer&#39;s Gold, Germany</F_H_NAME>
+<F_H_ORIGIN>Germany</F_H_ORIGIN>
+<F_H_TYPE>0</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>7.0000000</F_H_ALPHA>
+<F_H_BETA>3.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Black currant, fruit and spice characteristics. Has a high resin content and gives a well-balanced bitterness which is ideally complimented by late hop additions in lager beers.
+
+Usage: Ale, Bi&egrave;re de Garde, Lambic, Lager, Saison
+Substitutions: Galena, Northdown, Northern Brewer
+Storage: Unknown</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-19</_MOD_>
+<F_H_NAME>Hallertau Blanc</F_H_NAME>
+<F_H_ORIGIN>Germany</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>10.5000000</F_H_ALPHA>
+<F_H_BETA>5.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Floral and fruity with passion fruit, grapefruit, pineapple, grape and lemongrass overtones. One of several new German varieties with bold flavor profiles, perfect for American-style Ales.
+
+Used for: American style ale
+Substitutions: N/A
+Storage Unknown</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-19</_MOD_>
+<F_H_NAME>Hull Melon</F_H_NAME>
+<F_H_ORIGIN>Germany</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>7.2000000</F_H_ALPHA>
+<F_H_BETA>7.5000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Distinct fruit characteristics including honeydew melon and strawberry flavors. An excellent consideration for varieties not necessarily associated with typical hop flavors.
+
+Substitutions: N/A
+Storage Unkonwn</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Brooklyn</F_H_NAME>
+<F_H_ORIGIN>New Zealand</F_H_ORIGIN>
+<F_H_TYPE>0</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>18.0000000</F_H_ALPHA>
+<F_H_BETA>9.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>35.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>A high alpha hop with distinctive tropical, grapefruit and passion fruit characters. Developed from Southern Cross.
+
+Used for: IPAs
+Substitutions: N/A</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Cascade, New Zealand</F_H_NAME>
+<F_H_ORIGIN>New Zealand</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>7.0000000</F_H_ALPHA>
+<F_H_BETA>5.2000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>35.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Flowers, citrus &amp; spice with grapefruit the noticeable fragrance quite often. This medium aroma balances the low bittering value. Very popular hop among craft brewers.
+
+Used for: Pale Ales, IPAs, Porters
+Substitutions: Centennial, Amarillo</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Chinook, New Zealand</F_H_NAME>
+<F_H_ORIGIN>New Zealand</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>12.1000000</F_H_ALPHA>
+<F_H_BETA>7.6000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>20.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Piney with exotic spice and infused with grapefruit. This alluring aroma and a high bittering value has gained this hop full respect from craft &amp; major brewers.
+
+Used for: American Pale Ale, IPA, Porter, Stout
+Substitutions: Southern Cross, Sticklebract, Nugget, Northern Brewer</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Dr. Rudi</F_H_NAME>
+<F_H_ORIGIN>New Zealand</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>11.0000000</F_H_ALPHA>
+<F_H_BETA>8.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>25.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>A dual purpose / bittering hop with classic resinous pine and lifted citrus characters.
+
+Used for: Ales
+Substitutions: N/A</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Fuggle, New Zealand</F_H_NAME>
+<F_H_ORIGIN>New Zealand</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>6.1000000</F_H_ALPHA>
+<F_H_BETA>3.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>30.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Fuggle is the classic English aroma hop and is often used in conjunction with Goldings. It can be used as a main boiling hop to impart a mild, soft grassy/woody floral aroma and is also used for dry hopping.
+
+Used for: English Ales, Porter, Stout, English IPA
+Substitutions: UK Fuggle, NZ Willamette, NZ Styrian Golding</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Golding, New Zealand</F_H_NAME>
+<F_H_ORIGIN>New Zealand</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>4.2000000</F_H_ALPHA>
+<F_H_BETA>4.5000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>25.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Mild, delicate sweet floral character
+
+Used for: English Ales
+Substitutions: NZ Willamette, NZ Styrian Golding, NZ Fuggle, UK East Kent Golding</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Kohatu</F_H_NAME>
+<F_H_ORIGIN>New Zealand</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>6.5000000</F_H_ALPHA>
+<F_H_BETA>5.5000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>30.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Moderate aroma with lime and pineapple with traces of pine. Overuse can exhibit &quot;dank&quot; character.
+
+Used for: Belgian Ales, Wheat Beer, Blonde Ale
+Substitutions: N/A</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-17</_MOD_>
+<F_H_NAME>Liberty, New Zealand</F_H_NAME>
+<F_H_ORIGIN>New Zealand</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>5.9000000</F_H_ALPHA>
+<F_H_BETA>4.7000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>35.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Mild and spicy, subtle lemon and citrus. Used in many styles. Contributes good bitterness in the beginning of the boil and an aroma of grapes, peaches, and vanilla at the end of the boil. Derived from Hallertau Mittlefruh.
+
+</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Motueka</F_H_NAME>
+<F_H_ORIGIN>New Zealand</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>7.0000000</F_H_ALPHA>
+<F_H_BETA>5.2500000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>0.0000000</F_H_AMOUNT>
+<F_H_HSI>30.0000000</F_H_HSI>
+<F_H_BOIL_TIME>0.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>3.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Flexible hop developed from Saaz.  Has noble character and aroma, lemon and lime tones, balanced bitterness, and unique flavor.
+
+Used for: Lagers, Belgian Ales and Bohemian Pilsner.  
+Substitutions: Saaz, Sterling</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>1.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-19</_MOD_>
+<F_H_NAME>Wai-iti</F_H_NAME>
+<F_H_ORIGIN>New Zealand</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>3.0000000</F_H_ALPHA>
+<F_H_BETA>5.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>30.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Strong citrus character of lime zest with fresh peaches and apricot. Used in both ales and lagers. Good for late additions and dry hopping.
+
+Used for: Ale, Pale Ale, IPA.
+Substitutions: N/A</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Waimea</F_H_NAME>
+<F_H_ORIGIN>New Zealand</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>17.5000000</F_H_ALPHA>
+<F_H_BETA>8.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>30.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>A high alpha acid, dual purpose hop with lots of pine and citrus characters. 
+
+Used for: IPA
+Substitutions: N/A</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Willamette, New Zealand</F_H_NAME>
+<F_H_ORIGIN>New Zealand</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>5.0000000</F_H_ALPHA>
+<F_H_BETA>3.8000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>30.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Mild, pleasant, slight spicy floral tones.
+
+Used for: American and English Ales
+Substitutions: US Willamette, Fuggles</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Wye Challenger</F_H_NAME>
+<F_H_ORIGIN>New Zealand</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>8.9000000</F_H_ALPHA>
+<F_H_BETA>5.8000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>30.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Spicy, clean, citrus aroma with distinct herbal notes.
+
+Used for: English Ales, English IPA, Red Ale, Bitter, Stout, Porter
+Substitutions: N/A</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Bitter Gold</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>17.0000000</F_H_ALPHA>
+<F_H_BETA>7.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>45.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Intense stone fruit especially pear and watermellon. A super-alpha variety with excellent aroma.
+
+Used for: All Styles
+Substitutions: Galena, Nugget</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Cashmere</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>8.5000000</F_H_ALPHA>
+<F_H_BETA>6.7000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>25.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Daughter of Cascade. Mild herbal aroma with strong melon, lemon, and slightly spicy notes.
+
+Used for: American Pale Ale, IPA
+Substitutions: N/A</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Equinox (HBC 366)</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>15.0000000</F_H_ALPHA>
+<F_H_BETA>4.8000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>25.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>A pronounced aroma profile with citrus, tropical fruit, floral and herbal characteristics. Specific descriptors include lemon, lime, papaya, apple, and green pepper.
+
+Used for: Experimental Ale
+Aroma: Exceptional aroma profile includes notes of citrus, tropical and pine 
+Substitutions: Unknown
+Storage: Unknown
+14.4-15.6% AA / 4.6-5.1% Beta</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Fuggle, U.S.</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>4.7500000</F_H_ALPHA>
+<F_H_BETA>1.7000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>37.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>This classic English aroma variety has long been grown in both Oregon and Washington. It has a typical English aroma and contributes a balanced bitterness. Fuggle is very suitable for English and American-style Ales. Mild wood and fruit characteristics.
+
+Used for: English Ales
+Substitutions: Willamette, UK Fuggle, Styrian Golding</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Golding, U.S.</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>5.0000000</F_H_ALPHA>
+<F_H_BETA>2.5000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>34.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Mild and delicate with sweet floral characteristics. Bred in the US from east Kent Golding. Golding hops consist of a group of traditional English aroma varieties which have been cultivated since 1790. Several
+selections now exist including Cobbs, Early Bird, East Well, Bramling, Canterbury and Mathon, some of which are now being grown in the U. S. All Goldings are recognized as having a most typical English aroma.
+
+Used for: Bitter
+Substitutions: Fuggle, Willamette, UK East Kent Golding, Styrian Golding</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Perle, U.S.</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>8.2500000</F_H_ALPHA>
+<F_H_BETA>4.5000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>17.5000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Bred from English Northern Brewer. Slightly spicy with herbal and floral characteristics.
+
+Used for: Stout
+Substitutions: Northern Brewer, German Northern Brewer, German Perle</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Sonnet Golding</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>4.8000000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Sonnet is a new hop variety bred from a Saaz variant that exhibited Goldings-like characteristics. It&#39;s used for aroma due to its low alpha acid content, and offers lots of floral notes.
+
+Used for: English Ales, Belgian Style Ales
+Substitutions: Saaz,East Kent Golding and Crystal.
+Storage: Unknown</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Tahoma</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>7.8000000</F_H_ALPHA>
+<F_H_BETA>9.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>25.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Citrus and lemon notes with cedar, pine, floral, pepper and subtle green melon notes. Daughter of Glacier that retains the very low cohumulone characteristic of Glacier with somewhat higher alpha acid content.</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Tettnang, U.S.</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>4.5000000</F_H_ALPHA>
+<F_H_BETA>3.7000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>42.5000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Tettnang is a traditional German land-race variety known for
+its noble aroma that is pleasant and slightly spicy. It remains well established in the Tettnang growing region of Germany, and is also grown in Oregon and Washington. Americangrown Tettnang is reported to have slightly higher myrcene levels than its German counterpart.
+
+Used for: American style ale
+Substitutions: German Tettnang, Santiam, German Spalt, Spalt Select</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Triple Pearl</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>10.7000000</F_H_ALPHA>
+<F_H_BETA>3.8000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Pleasant and balanced with notes of melon, orange citrus, resin, spice and pepper. Stoarge stability unknown. Released in 2013 by USDA-ARS.
+
+Used for: Pale Ale
+Substitutions: Perle</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Yakima Gold</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>9.6000000</F_H_ALPHA>
+<F_H_BETA>4.7000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Aroma is mild and pleasant. An excellent general purpose variety with smooth bitterness and a pleasant aroma. Released by Washington State University in 2013. </F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Brewer&#39;s Gold, UK</F_H_NAME>
+<F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
+<F_H_TYPE>0</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>7.5000000</F_H_ALPHA>
+<F_H_BETA>3.7000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>50.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Brewers Gold is a complex bittering hop that is noted to have a sharp or pungent bittering quality. It also imparts a fruity yet spicy aroma as well as having a black currant characteristic. It is on the low end of the bittering hop scale at 8 to 10% AAU typically. Brewers Gold can be used in a wide range of styles from English Ales to German Lagers and adds a decidely &#39;European&#39; element to the beer. These make a good partner to noble varieties such as Tettnang and Hallertauer.
+
+Used for: English Ale, German Lagers
+Substitutions: Bullion, Chinook, Galena</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Sovereign</F_H_NAME>
+<F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>5.5000000</F_H_ALPHA>
+<F_H_BETA>2.6000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Pleasant but intense fruity flavors with mild floral, grassy, herbal and mint characteristics.
+
+Used for: Pale Ale
+Substitution: Fuggles
+Storage: Unknown</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-18</_MOD_>
+<F_H_NAME>Sussex</F_H_NAME>
+<F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>5.0000000</F_H_ALPHA>
+<F_H_BETA>2.7000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Aroma similar to Fuggle. Good, yet delicate, flavor retention. Pedigree is &quot;a chance find&quot;. 
+
+Used for: Ale
+Sustitution: N/A
+Storage: Unknown</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2016-01-26</_MOD_>
+<F_H_NAME>Gesho Kitel</F_H_NAME>
+<F_H_ORIGIN>Ethiopia</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>5.0000000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Brundo&#39;s aroma hops Gesho stems, gathered from the highlands of Ethiopia, are sun-dried and packed fresh. These aromatic sticks and stem flavor centuries old traditional brewing recipes for beer and Ethiopian honey wine. Acid content unknown.</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>1.7400000</F_H_PRICE>
+</Hops>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Selections>

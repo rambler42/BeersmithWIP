@@ -1,0 +1,428 @@
+<Selections><_MOD_>2016-02-01</_MOD_>
+<Name>Selections</Name>
+<Type>7406</Type>
+<Dirty>1</Dirty>
+<Owndata>0</Owndata>
+<TID>100</TID>
+<Size>15</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Grain><_MOD_>2016-02-04</_MOD_>
+<F_G_NAME>Amber Malt (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>55.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>20.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Amber malt has a light, biscuity, dry flavour and can be used to produce some Bitter and Mild Ales and sweet Stouts in the UK, as well as the traditional London Porters that have come back into favour recently. The flavour is quite intense and caution in the use of this material is required.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1556250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-01-26</_MOD_>
+<F_G_NAME>Black Malt (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>600.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Black Malt, sometimes loosely described as Roasted Malt, is used in the production of very dark beers. The flavor, as might be expected, is a more intense version of Chocolate malt and, because of its colour and flavor, needs to be used with care.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1743750</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-02-01</_MOD_>
+<F_G_NAME>Caramalt Malt - 15L (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>15.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Crystal or Caramel malts have a distinctive toffee flavour, which becomes more intense as colour is increased, and at the higher end of the colour range burnt or roasted malt flavours may begin to appear. Traditionally in the UK, Crystal malt of colour 70-80 &deg;ASBC has been used at about 5% of the grist to give the characteristic colour and flavour of UK Bitters and Pale Ales.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1556250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-02-01</_MOD_>
+<F_G_NAME>Caramalt Malt - 35L (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>35.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Crystal or Caramel malts have a distinctive toffee flavour, which becomes more intense as colour is increased, and at the higher end of the colour range burnt or roasted malt flavours may begin to appear. Traditionally in the UK, Crystal malt of colour 70-80 &deg;ASBC has been used at about 5% of the grist to give the characteristic colour and flavour of UK Bitters and Pale Ales.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1556250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-02-01</_MOD_>
+<F_G_NAME>Caramalt Malt - 55L (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>55.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Crystal or Caramel malts have a distinctive toffee flavour, which becomes more intense as colour is increased, and at the higher end of the colour range burnt or roasted malt flavours may begin to appear. Traditionally in the UK, Crystal malt of colour 70-80 &deg;ASBC has been used at about 5% of the grist to give the characteristic colour and flavour of UK Bitters and Pale Ales.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1556250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-02-01</_MOD_>
+<F_G_NAME>Caramel/Crystal Malt - 110L (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>110.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Crystal or Caramel malts have a distinctive toffee flavour, which becomes more intense as colour is increased, and at the higher end of the colour range burnt or roasted malt flavours may begin to appear. Traditionally in the UK, Crystal malt of colour 70-80 &deg;ASBC has been used at about 5% of the grist to give the characteristic colour and flavour of UK Bitters and Pale Ales.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1556250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-02-01</_MOD_>
+<F_G_NAME>Caramel/Crystal Malt - 150L (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>150.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Crystal or Caramel malts have a distinctive toffee flavour, which becomes more intense as colour is increased, and at the higher end of the colour range burnt or roasted malt flavours may begin to appear. Traditionally in the UK, Crystal malt of colour 70-80 &deg;ASBC has been used at about 5% of the grist to give the characteristic colour and flavour of UK Bitters and Pale Ales.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1556250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-02-01</_MOD_>
+<F_G_NAME>Caramel/Crystal Malt - 65L (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>65.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Crystal or Caramel malts have a distinctive toffee flavour, which becomes more intense as colour is increased, and at the higher end of the colour range burnt or roasted malt flavours may begin to appear. Traditionally in the UK, Crystal malt of colour 70-80 &deg;ASBC has been used at about 5% of the grist to give the characteristic colour and flavour of UK Bitters and Pale Ales.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1556250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-02-01</_MOD_>
+<F_G_NAME>Caramel/Crystal Malt - 75 (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>75.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Crystal or Caramel malts have a distinctive toffee flavour, which becomes more intense as colour is increased, and at the higher end of the colour range burnt or roasted malt flavours may begin to appear. Traditionally in the UK, Crystal malt of colour 70-80 &deg;ASBC has been used at about 5% of the grist to give the characteristic colour and flavour of UK Bitters and Pale Ales.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1556250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-01-26</_MOD_>
+<F_G_NAME>Chocolate Malt (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>500.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Chocolate malt is used in the production of Porters and sweet Stouts. Chocolate malt has a rich chocolate and coffee flavour and aroma with a light astringency. A great deal of care is needed in the use of this material because of its intense colour and flavour. Manufacture is similar to Amber malt but higher final temperatures are used. Flavour again is due to pyrazines and pyrroles. </F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1743750</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-02-01</_MOD_>
+<F_G_NAME>Munich Malt (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>5.0000000</F_G_COLOR>
+<F_G_YIELD>80.5000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>40.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>80.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Munich malt is used in the production of dark Dunkel Lagers, which are dark in colour with a brownish tinge. Munich malt is only a part of the grist, along with pale Lager malt and perhaps Caramalt.
+
+The malt is a well-modified Lager malt, which is kilned in such a way that modification continues during kilning and very high finishing heats are used to produce the characteristic colour and flavour. 
+
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1743750</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-02-01</_MOD_>
+<F_G_NAME>Pale Ale Malt (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.5000000</F_G_COLOR>
+<F_G_YIELD>82.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>45.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>9.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Pale Ale malt forms the majority of the grist for a typical UK Pale Ale or Bitter beer and is made from some of the best spring and winter barley available. There is an emphasis on low protein barley to provide higher extract levels but still acceptable levels of enzymes. The barley will be fully-steeped and germinated before the green malt is loaded to the kiln. Kilning is a carefully controlled process removing moisture to a relatively low level without destroying excessive amounts of enzymes but imparting characteristic flavour and colour. Even with a diastase of only 45 IOB there is still enough activity to convert for example 5% of Crystal malt and 5 -10% of cooked adjunct (e.g. flaked maize). </F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1743750</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-02-01</_MOD_>
+<F_G_NAME>Pilsner/Lager Malt (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.5000000</F_G_COLOR>
+<F_G_YIELD>80.5000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>65.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.5000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Pilsen / Lager Malt is used for brewing all malt Premium Lagers. There is an emphasis on low protein and the relatively low soluble nitrogen ratio. This ensures good extract levels, no haze problems and low Dimethylsulfide (DMS) potential. Steeping and germination are carefully controlled to prevent excessive modification and to preserve head retention values in the beer. Kilning of the green malt is carefully programmed to prevent excessive colour formation yet sufficient heat is applied to ensure that DMS potential is limited. 
+ Although mainly intended for all malt beers, there is sufficient diastatic power to convert a limited amount of adjunct. Care has to be taken that not too much adjunct is used or flavour could be impaired. Also, excessive dilution of soluble nitrogen could result in yeast nutrition problems, causing poor fermentation or flavour defects due to diacetyl, for example</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1743750</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-01-26</_MOD_>
+<F_G_NAME>Roasted Barley (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>600.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Roast Barley. This product is used in the production of dry or bitter Stouts and other dark beers, or for the careful adjustment of Pilsen beer colours.
+
+A different, slower roasting temperature profile is used but the final temperature is 220&deg;C or even higher, which is achieved by allowing the exothermic roasting reactions to continue after turning off the heat source. The reaction is stopped by quenching with water. Because of the high temperature at the end, colour pick-up at this stage is very rapid and extreme care is needed to prevent carbonisation.
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1743750</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2016-01-26</_MOD_>
+<F_G_NAME>Vienna Malt (Bairds)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Bairds</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.5000000</F_G_COLOR>
+<F_G_YIELD>79.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>50.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>90.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Vienna Malt is used for making dark lager beer of the Vienna or M&auml;rzen style, dark in colour with a reddish tinge. Vienna malt usually only forms around 10 -15% of the grist with normal Lager malt and perhaps Caramalt.
+
+The malt is a well-modified Lager malt, resulting from full steeping and germination. The colour is achieved by kilning at higher temperatures than usual for Lager malts. Because it only forms a part of the grist, diastatic activity is less important.
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1743750</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Selections>
